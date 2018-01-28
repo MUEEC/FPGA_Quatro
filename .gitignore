@@ -1,7 +1,10 @@
 History
 __Previews
-Project Logs for Micro_Card
-Project Outputs for Micro_Card
+Project Logs for FPGA_Quatro
+Project Outputs for FPGA_Quatro
+*.htm
+*.html
 debug.log
 desktop.ini
 /3D
+/TempResources
