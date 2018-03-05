@@ -428,23 +428,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVTVWRFW
 
-[Document24]
-DocumentPath=13_Memory.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=13
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=INCMPAEF
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
