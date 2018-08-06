@@ -5,11 +5,21 @@ module Quatro(
 	input [9:0] SW,
 	output [9:0] LEDR,
 	output [6:0] HEX0,
+	output 		 HEX0_DP,
 	output [6:0] HEX1,
+	output 		 HEX1_DP,
 	output [6:0] HEX2,
+	output 		 HEX2_DP,
 	output [6:0] HEX3,
+	output 		 HEX3_DP,
 	output [6:0] HEX4,
-	output [6:0] HEX5
+	output 		 HEX4_DP,
+	output [6:0] HEX5,
+	output 		 HEX5_DP,
+	output		 HDMI_CLK,
+	output		 HDMI_D0,
+	output		 HDMI_D1,
+	output		 HDMI_D2
 	);
 	
 	/**** Clock circuitry (25 ms cycle) ****/
@@ -45,7 +55,8 @@ module Quatro(
 	SSeg BYTE0(.bin(hex_counter[7:0]), .neg(1'b0), .enable(1'b1), .segs(HEX0));
 	
 	/**** Switches and LED ****/
-	assign LEDR = SW;
+	//assign LEDR = SW;
+	assign LEDR[0] = SW[0], LEDR[1] = SW[1], LEDR[2] = SW[2];
 	
 	
 	/**** Buttons ****/

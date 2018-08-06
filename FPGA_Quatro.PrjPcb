@@ -56,13 +56,13 @@ DocumentUniqueId=RKXWILSC
 
 [Document2]
 DocumentPath=FPGA_Quatro_SCH_main.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=1
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -113,7 +113,7 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=0
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -124,13 +124,13 @@ DocumentUniqueId=ETUAAVXN
 
 [Document6]
 DocumentPath=02_Power.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=2
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -141,13 +141,13 @@ DocumentUniqueId=DHOVMRFK
 
 [Document7]
 DocumentPath=03_LED.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=3
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -157,23 +157,6 @@ GenerateClassCluster=0
 DocumentUniqueId=REOTWWPK
 
 [Document8]
-DocumentPath=FPGA_Quatro_SCH_main.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document9]
 DocumentPath=01_FPGA.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,15 +173,15 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document9]
 DocumentPath=04_7SEG.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=4
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -207,15 +190,15 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FCSAIMFE
 
-[Document11]
+[Document10]
 DocumentPath=05_Button.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=5
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -224,15 +207,15 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ATWGCTER
 
-[Document12]
+[Document11]
 DocumentPath=06_Switch.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=6
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -241,15 +224,15 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YGYCPXGY
 
-[Document13]
+[Document12]
 DocumentPath=09_USB.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=8
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -258,15 +241,15 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SBTHCXBK
 
-[Document14]
+[Document13]
 DocumentPath=10_Headers.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=9
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -275,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JSYSVLKW
 
-[Document15]
+[Document14]
 DocumentPath=03_LED.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document15]
 DocumentPath=05_Button.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=Sheet2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document17]
 DocumentPath=04_7SEG.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document18]
 DocumentPath=06_Switch.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,43 +343,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
-DocumentPath=11_Blaster.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=11
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UJAACTVY
-
-[Document21]
-DocumentPath=11_Blaster.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document22]
+[Document19]
 DocumentPath=07_HDMI.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -411,15 +360,15 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GEJTLPJS
 
-[Document23]
+[Document20]
 DocumentPath=12_IR.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=12
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -428,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVTVWRFW
 
-[Document24]
+[Document21]
 DocumentPath=07_HDMI.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document22]
 DocumentPath=12_IR.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,8 +411,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document23]
 DocumentPath=09_USB.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document24]
+DocumentPath=Manufacturing.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -598,7 +564,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=Brother HL-L2360D series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1071,7 +1037,7 @@ OutputDefault9=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=Brother HL-L2360D series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1191,6 +1157,11 @@ Type108=1
 Type109=1
 Type110=1
 Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
 
 [Difference Levels]
 Type1=1
@@ -1255,6 +1226,9 @@ Type59=1
 Type60=1
 Type61=1
 Type62=1
+Type63=1
+Type64=1
+Type65=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1378,6 +1352,7 @@ Type118=3
 Type119=3
 MultiChannelAlternate=2
 AlternateItemFail=3
+Type122=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1399,7 +1374,7 @@ L16=WWWWNWWNWWWNWWWNW
 L17=WNNNNNNNWNNNWWWWN
 
 [Annotate]
-SortOrder=3
+SortOrder=1
 SortLocation=0
 MatchParameter1=Comment
 MatchStrictly1=1
@@ -1430,111 +1405,111 @@ ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=Quatro_SchLib.SchLib
-ComponentDesignItemID1=ATtiny4313
-ComponentSymbolReference1=ATtiny4313
+ComponentDesignItemID1=74VHCV245FT
+ComponentSymbolReference1=74VHCV245FT
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=Quatro_SchLib.SchLib
-ComponentDesignItemID2=BUT
-ComponentSymbolReference2=BUT
+ComponentDesignItemID2=ATtiny4313
+ComponentSymbolReference2=ATtiny4313
 ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=Quatro_SchLib.SchLib
-ComponentDesignItemID3=C
-ComponentSymbolReference3=C
+ComponentDesignItemID3=BUT
+ComponentSymbolReference3=BUT
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=Quatro_SchLib.SchLib
-ComponentDesignItemID4=CLK_50M
-ComponentSymbolReference4=CLK_50M
+ComponentDesignItemID4=C
+ComponentSymbolReference4=C
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=Quatro_SchLib.SchLib
-ComponentDesignItemID5=EP4CE6F17C8
-ComponentSymbolReference5=EP4CE6F17C8
+ComponentDesignItemID5=CLK_50M
+ComponentSymbolReference5=CLK_50M
 ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=Quatro_SchLib.SchLib
-ComponentDesignItemID6=Ferrite_Bead
-ComponentSymbolReference6=Ferrite_Bead
+ComponentDesignItemID6=EP4CE6F17C8
+ComponentSymbolReference6=EP4CE6F17C8
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
 ComponentLibraryIdentifier7=Quatro_SchLib.SchLib
-ComponentDesignItemID7=H10
-ComponentSymbolReference7=H10
+ComponentDesignItemID7=Ferrite_Bead
+ComponentSymbolReference7=Ferrite_Bead
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
 ComponentLibraryIdentifier8=Quatro_SchLib.SchLib
-ComponentDesignItemID8=H3*2
-ComponentSymbolReference8=H3*2
+ComponentDesignItemID8=H10
+ComponentSymbolReference8=H10
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=Quatro_SchLib.SchLib
-ComponentDesignItemID9=H6
-ComponentSymbolReference9=H6
+ComponentDesignItemID9=H3*2
+ComponentSymbolReference9=H3*2
 ComponentUpdate9=1
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
 ComponentLibraryIdentifier10=Quatro_SchLib.SchLib
-ComponentDesignItemID10=HDMI
-ComponentSymbolReference10=HDMI
+ComponentDesignItemID10=H6
+ComponentSymbolReference10=H6
 ComponentUpdate10=1
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
 ComponentLibraryIdentifier11=Quatro_SchLib.SchLib
-ComponentDesignItemID11=IS25LP064A
-ComponentSymbolReference11=IS25LP064A
-ComponentUpdate11=1
+ComponentDesignItemID11=HDMI
+ComponentSymbolReference11=HDMI
+ComponentUpdate11=0
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
 ComponentLibraryIdentifier12=Quatro_SchLib.SchLib
-ComponentDesignItemID12=JTAG_CON
-ComponentSymbolReference12=JTAG_CON
+ComponentDesignItemID12=IS25LP064A
+ComponentSymbolReference12=IS25LP064A
 ComponentUpdate12=1
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
 ComponentLibraryIdentifier13=Quatro_SchLib.SchLib
-ComponentDesignItemID13=L
-ComponentSymbolReference13=L
+ComponentDesignItemID13=JTAG_CON
+ComponentSymbolReference13=JTAG_CON
 ComponentUpdate13=1
 ComponentIsDeviceSheet13=0
 ComponentLibIdentifierKind14=Library Name And Type
 ComponentLibraryIdentifier14=Quatro_SchLib.SchLib
-ComponentDesignItemID14=LED
-ComponentSymbolReference14=LED
+ComponentDesignItemID14=L
+ComponentSymbolReference14=L
 ComponentUpdate14=1
 ComponentIsDeviceSheet14=0
 ComponentLibIdentifierKind15=Library Name And Type
 ComponentLibraryIdentifier15=Quatro_SchLib.SchLib
-ComponentDesignItemID15=MCP1603T-330I/OS
-ComponentSymbolReference15=MCP1603T-330I/OS
+ComponentDesignItemID15=LED_SMD_Generic
+ComponentSymbolReference15=LED_SMD_Generic
 ComponentUpdate15=1
 ComponentIsDeviceSheet15=0
 ComponentLibIdentifierKind16=Library Name And Type
 ComponentLibraryIdentifier16=Quatro_SchLib.SchLib
-ComponentDesignItemID16=MIC5331
-ComponentSymbolReference16=MIC5331
+ComponentDesignItemID16=MCP1603T-330I/OS
+ComponentSymbolReference16=MCP1603T-330I/OS
 ComponentUpdate16=1
 ComponentIsDeviceSheet16=0
 ComponentLibIdentifierKind17=Library Name And Type
 ComponentLibraryIdentifier17=Quatro_SchLib.SchLib
-ComponentDesignItemID17=P MOSFT
-ComponentSymbolReference17=P MOSFT
+ComponentDesignItemID17=MIC5331
+ComponentSymbolReference17=MIC5331
 ComponentUpdate17=1
 ComponentIsDeviceSheet17=0
 ComponentLibIdentifierKind18=Library Name And Type
 ComponentLibraryIdentifier18=Quatro_SchLib.SchLib
 ComponentDesignItemID18=R
 ComponentSymbolReference18=R
-ComponentUpdate18=1
+ComponentUpdate18=0
 ComponentIsDeviceSheet18=0
 ComponentLibIdentifierKind19=Library Name And Type
 ComponentLibraryIdentifier19=Quatro_SchLib.SchLib
@@ -1562,16 +1537,22 @@ ComponentUpdate22=1
 ComponentIsDeviceSheet22=0
 ComponentLibIdentifierKind23=Library Name And Type
 ComponentLibraryIdentifier23=Quatro_SchLib.SchLib
-ComponentDesignItemID23=TVS ARRAY
-ComponentSymbolReference23=TVS ARRAY
+ComponentDesignItemID23=TFDU4101
+ComponentSymbolReference23=TFDU4101
 ComponentUpdate23=1
 ComponentIsDeviceSheet23=0
 ComponentLibIdentifierKind24=Library Name And Type
 ComponentLibraryIdentifier24=Quatro_SchLib.SchLib
-ComponentDesignItemID24=USB_micro
-ComponentSymbolReference24=USB_micro
+ComponentDesignItemID24=TVS ARRAY
+ComponentSymbolReference24=TVS ARRAY
 ComponentUpdate24=1
 ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Library Name And Type
+ComponentLibraryIdentifier25=Quatro_SchLib.SchLib
+ComponentDesignItemID25=USB_micro
+ComponentSymbolReference25=USB_micro
+ComponentUpdate25=1
+ComponentIsDeviceSheet25=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1599,158 +1580,168 @@ ParameterName5=Color
 ParameterUpdate5=1
 ParameterName6=Comment
 ParameterUpdate6=1
-ParameterName7=Common Pin
+ParameterName7=Component Kind
 ParameterUpdate7=1
-ParameterName8=Component Kind
+ParameterName8=ComponentLink1Description
 ParameterUpdate8=1
-ParameterName9=ComponentLink1Description
+ParameterName9=ComponentLink1URL
 ParameterUpdate9=1
-ParameterName10=ComponentLink1URL
+ParameterName10=ComponentLink2Description
 ParameterUpdate10=1
-ParameterName11=ComponentLink2Description
+ParameterName11=ComponentLink2URL
 ParameterUpdate11=1
-ParameterName12=ComponentLink2URL
+ParameterName12=ComponentLink3Description
 ParameterUpdate12=1
-ParameterName13=ComponentLink3Description
+ParameterName13=ComponentLink3URL
 ParameterUpdate13=1
-ParameterName14=ComponentLink3URL
+ParameterName14=ComponentLink4Description
 ParameterUpdate14=1
-ParameterName15=ComponentLink4Description
+ParameterName15=ComponentLink4URL
 ParameterUpdate15=1
-ParameterName16=ComponentLink4URL
+ParameterName16=DatasheetVersion
 ParameterUpdate16=1
-ParameterName17=DatasheetVersion
+ParameterName17=Description
 ParameterUpdate17=1
-ParameterName18=Description
+ParameterName18=Digikey URL
 ParameterUpdate18=1
-ParameterName19=Digikey URL
+ParameterName19=Library Reference
 ParameterUpdate19=1
-ParameterName20=Library Reference
+ParameterName20=Manufacturer Part Number
 ParameterUpdate20=1
-ParameterName21=Manufacturer Part Number
+ParameterName21=Mount
 ParameterUpdate21=1
-ParameterName22=Mount
+ParameterName22=Num of Resistors
 ParameterUpdate22=1
-ParameterName23=Num of Resistors
+ParameterName23=PackageDescription
 ParameterUpdate23=1
-ParameterName24=PackageDescription
+ParameterName24=PackageReference
 ParameterUpdate24=1
-ParameterName25=PackageReference
+ParameterName25=PackageVersion
 ParameterUpdate25=1
-ParameterName26=PackageVersion
+ParameterName26=Published
 ParameterUpdate26=1
-ParameterName27=Published
+ParameterName27=Publisher
 ParameterUpdate27=1
-ParameterName28=Publisher
+ParameterName28=Revision
 ParameterUpdate28=1
-ParameterName29=Revision
+ParameterName29=Supplier 1
 ParameterUpdate29=1
-ParameterName30=Supplier 1
+ParameterName30=Supplier Part Number 1
 ParameterUpdate30=1
-ParameterName31=Supplier Part Number 1
+ParameterName31=Switching
 ParameterUpdate31=1
-ParameterName32=Switching
+ParameterName32=Type
 ParameterUpdate32=1
-ParameterName33=Type
+ParameterName33=Value
 ParameterUpdate33=1
-ParameterName34=Value
-ParameterUpdate34=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=20S2
+ModelName0=0805D-GREEN
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=744031004
+ModelName1=0805D-RED
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=9-UDFN
+ModelName2=20S2
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=BOXEDVERT10
+ModelName3=744031004
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=But_PTS645SMT
+ModelName4=9-UDFN
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=CAP0402R
+ModelName5=BOXEDVERT10
 ModelUpdate5=1
 ModelType6=PCBLIB
-ModelName6=CAP0603R
+ModelName6=But_PTS645SMT
 ModelUpdate6=1
 ModelType7=PCBLIB
-ModelName7=CAP0805R
+ModelName7=CAP0402R
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=CRYSTAL_7x5
+ModelName8=CAP0603R
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=CX32225SB
+ModelName9=CAP0805R
 ModelUpdate9=1
 ModelType10=PCBLIB
-ModelName10=EXB-2HV
+ModelName10=CRYSTAL_7x5
 ModelUpdate10=1
 ModelType11=PCBLIB
-ModelName11=FBGA256
+ModelName11=CX32225SB
 ModelUpdate11=1
 ModelType12=PCBLIB
-ModelName12=H10
+ModelName12=EXB-2HV
 ModelUpdate12=1
 ModelType13=PCBLIB
-ModelName13=H3*2
+ModelName13=FBGA256
 ModelUpdate13=1
 ModelType14=PCBLIB
-ModelName14=H6
+ModelName14=H10
 ModelUpdate14=1
 ModelType15=PCBLIB
-ModelName15=HDMI
+ModelName15=H3*2
 ModelUpdate15=1
 ModelType16=PCBLIB
-ModelName16=LED0603
+ModelName16=H6
 ModelUpdate16=1
 ModelType17=PCBLIB
-ModelName17=RES0402R
+ModelName17=HDMI
 ModelUpdate17=1
 ModelType18=PCBLIB
-ModelName18=RES0603R
+ModelName18=LED0603
 ModelUpdate18=1
 ModelType19=PCBLIB
-ModelName19=RES0805R
+ModelName19=RES0402R
 ModelUpdate19=1
 ModelType20=PCBLIB
-ModelName20=Seven_Seg_INND-TS40
+ModelName20=RES0603R
 ModelUpdate20=1
 ModelType21=PCBLIB
-ModelName21=SOIC-8
+ModelName21=RES0805R
 ModelUpdate21=1
 ModelType22=PCBLIB
-ModelName22=SOT23_PMV48XP
+ModelName22=Seven_Seg_INND-TS40
 ModelUpdate22=1
 ModelType23=PCBLIB
-ModelName23=SOT23-5
+ModelName23=SOIC-8
 ModelUpdate23=1
 ModelType24=PCBLIB
-ModelName24=SW_OS102011MS2Q
+ModelName24=SOT23-5
 ModelUpdate24=1
 ModelType25=PCBLIB
-ModelName25=TDFN22
+ModelName25=SW_OS102011MS2Q
 ModelUpdate25=1
 ModelType26=PCBLIB
-ModelName26=TestPoint
+ModelName26=TDFN22
 ModelUpdate26=1
 ModelType27=PCBLIB
-ModelName27=USB_micro_through
+ModelName27=TestPoint
 ModelUpdate27=1
+ModelType28=PCBLIB
+ModelName28=TFDU4101
+ModelUpdate28=1
+ModelType29=PCBLIB
+ModelName29=TSSOP20B
+ModelUpdate29=1
+ModelType30=PCBLIB
+ModelName30=USB_micro_through
+ModelUpdate30=1
 ModelTypeGroup1=SI
 ModelTypeUpdate1=1
-ModelType28=SI
-ModelName28=EP4CE_F256
-ModelUpdate28=1
+ModelType31=SI
+ModelName31=EP4CE_F256
+ModelUpdate31=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=3V3_B|NetColor=$00FF6E6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
