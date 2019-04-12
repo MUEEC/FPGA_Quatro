@@ -21,7 +21,7 @@ TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Brother HL-L2360D series
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -108,16 +108,16 @@ OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration4_Name1=ColumnNameFormat
 Configuration4_Item1=CaptionAsName
-Configuration4_Name2=Filter
-Configuration4_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
-Configuration4_Name3=General
-Configuration4_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=2154|FormHeight=1305|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|ViewType=0
-Configuration4_Name4=GroupOrder
-Configuration4_Item4=Supplier Part Number 1=True
-Configuration4_Name5=SortOrder
-Configuration4_Item5=Mount=Up
-Configuration4_Name6=VisibleOrder
-Configuration4_Item6=Designator=214|Mount=74|Manufacturer Part Number 1=158|Supplier 1=58|Supplier Part Number 1=170|Quantity=63|Supplier Unit Price 1=146
+Configuration4_Name2=General
+Configuration4_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1444|FormHeight=870|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration4_Name3=GroupOrder
+Configuration4_Item3=Supplier Part Number 1=True|Load=True
+Configuration4_Name4=SortOrder
+Configuration4_Item4=Mount=Up
+Configuration4_Name5=VisibleOrder
+Configuration4_Item5=Designator=214|Load=100|Mount=74|Manufacturer Part Number 1=158|Supplier 1=58|Supplier Part Number 1=170|Quantity=63|Supplier Unit Price 1=146
+Configuration4_Name6=VisibleOrder_Flat
+Configuration4_Item6=Designator=214|Load=100|Mount=74|Manufacturer Part Number 1=158|Supplier 1=58|Supplier Part Number 1=170|Quantity=63|Supplier Unit Price 1=146
 OutputType5=Assembly
 OutputName5=Assembly Drawings
 OutputCategory5=Assembly
